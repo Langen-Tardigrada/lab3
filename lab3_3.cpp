@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    float x = 2, y = 69;
+    float x = 6, y = 19;
     float i = x, ans = 0;
     while(i<=y){
         ans+=1/i;
